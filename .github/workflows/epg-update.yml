@@ -1,0 +1,30 @@
+name: Auto Update Kapamilya EPG
+
+on:
+  schedule:
+    # Tatakbo araw-araw ng 00:00 UTC (8:00 AM Manila Time)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Pwede ring i-trigger nang manual via GitHub UI
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/python-versions@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate New EPG XML
+        run: python generate_epg.py
+
+      - name: Commit and Push Updated EPG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          git commit -m "Auto-update Kapamilya Channel EPG [skip ci]" || exit 0
+          git push
