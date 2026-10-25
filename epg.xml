@@ -3,58 +3,6 @@
   <channel id="KapamilyaChannel.ph">
     <display-name>Kapamilya Channel</display-name>
   </channel>
-  <programme start="20261024053000 +0800" stop="20261024060000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Kapamilya Daily Mass</title>
-    <desc lang="en">Saturday morning mass celebration.</desc>
-  </programme>
-  <programme start="20261024060000 +0800" stop="20261024070000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Bayan Mo, Ipatrol Mo</title>
-    <desc lang="en">Public service and citizen journalism.</desc>
-  </programme>
-  <programme start="20261024070000 +0800" stop="20261024080000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Superbook</title>
-    <desc lang="en">Animated kids program.</desc>
-  </programme>
-  <programme start="20261024080000 +0800" stop="20261024100000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Kapamilya Blockbusters Weekend</title>
-    <desc lang="en">Saturday morning movie special.</desc>
-  </programme>
-  <programme start="20261024100000 +0800" stop="20261024120000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">It's Showtime Saturday</title>
-    <desc lang="en">Extended weekend noontime variety show.</desc>
-  </programme>
-  <programme start="20261024120000 +0800" stop="20261024143000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">It's Showtime Continuation</title>
-    <desc lang="en">Live performances and segments.</desc>
-  </programme>
-  <programme start="20261024143000 +0800" stop="20261024160000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Ipaglaban Mo</title>
-    <desc lang="en">Legal drama anthology hosted by Atty. Jose and Jopet Sison.</desc>
-  </programme>
-  <programme start="20261024160000 +0800" stop="20261024170000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Soco: Scene of the Crime Operatives</title>
-    <desc lang="en">Investigative documentary program.</desc>
-  </programme>
-  <programme start="20261024170000 +0800" stop="20261024180000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">TV Patrol Weekend</title>
-    <desc lang="en">Weekend news wrap-up.</desc>
-  </programme>
-  <programme start="20261024180000 +0800" stop="20261024191500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Goin' Bulilit</title>
-    <desc lang="en">Kiddie gag show.</desc>
-  </programme>
-  <programme start="20261024191500 +0800" stop="20261024204500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">The Voice Kids / Reality Show</title>
-    <desc lang="en">Weekend reality competition show.</desc>
-  </programme>
-  <programme start="20261024204500 +0800" stop="20261024214500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Maalaala Mo Kaya (Classic/Special)</title>
-    <desc lang="en">Drama anthology series.</desc>
-  </programme>
-  <programme start="20261024214500 +0800" stop="20261024233000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Kapamilya Action Movie</title>
-    <desc lang="en">Late night Saturday action block.</desc>
-  </programme>
   <programme start="20261025060000 +0800" stop="20261025070000 +0800" channel="KapamilyaChannel.ph">
     <title lang="en">The Healing Eucharist</title>
     <desc lang="en">Sunday Holy Mass.</desc>
@@ -502,5 +450,57 @@
   <programme start="20261030224500 +0800" stop="20261030235900 +0800" channel="KapamilyaChannel.ph">
     <title lang="en">Movie Central Presents</title>
     <desc lang="en">Late night movie feature.</desc>
+  </programme>
+  <programme start="20261031053000 +0800" stop="20261031060000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Saturday morning mass celebration.</desc>
+  </programme>
+  <programme start="20261031060000 +0800" stop="20261031070000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Bayan Mo, Ipatrol Mo</title>
+    <desc lang="en">Public service and citizen journalism.</desc>
+  </programme>
+  <programme start="20261031070000 +0800" stop="20261031080000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Superbook</title>
+    <desc lang="en">Animated kids program.</desc>
+  </programme>
+  <programme start="20261031080000 +0800" stop="20261031100000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Kapamilya Blockbusters Weekend</title>
+    <desc lang="en">Saturday morning movie special.</desc>
+  </programme>
+  <programme start="20261031100000 +0800" stop="20261031120000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">It's Showtime Saturday</title>
+    <desc lang="en">Extended weekend noontime variety show.</desc>
+  </programme>
+  <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">It's Showtime Continuation</title>
+    <desc lang="en">Live performances and segments.</desc>
+  </programme>
+  <programme start="20261031143000 +0800" stop="20261031160000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Ipaglaban Mo</title>
+    <desc lang="en">Legal drama anthology hosted by Atty. Jose and Jopet Sison.</desc>
+  </programme>
+  <programme start="20261031160000 +0800" stop="20261031170000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Soco: Scene of the Crime Operatives</title>
+    <desc lang="en">Investigative documentary program.</desc>
+  </programme>
+  <programme start="20261031170000 +0800" stop="20261031180000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">TV Patrol Weekend</title>
+    <desc lang="en">Weekend news wrap-up.</desc>
+  </programme>
+  <programme start="20261031180000 +0800" stop="20261031191500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Goin' Bulilit</title>
+    <desc lang="en">Kiddie gag show.</desc>
+  </programme>
+  <programme start="20261031191500 +0800" stop="20261031204500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">The Voice Kids / Reality Show</title>
+    <desc lang="en">Weekend reality competition show.</desc>
+  </programme>
+  <programme start="20261031204500 +0800" stop="20261031214500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Maalaala Mo Kaya (Classic/Special)</title>
+    <desc lang="en">Drama anthology series.</desc>
+  </programme>
+  <programme start="20261031214500 +0800" stop="20261031233000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Kapamilya Action Movie</title>
+    <desc lang="en">Late night Saturday action block.</desc>
   </programme>
 </tv>
