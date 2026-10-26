@@ -3,54 +3,6 @@
   <channel id="KapamilyaChannel.ph">
     <display-name>Kapamilya Channel</display-name>
   </channel>
-  <programme start="20261025060000 +0800" stop="20261025070000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">The Healing Eucharist</title>
-    <desc lang="en">Sunday Holy Mass.</desc>
-  </programme>
-  <programme start="20261025070000 +0800" stop="20261025080000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Kabuhayang Swak na Swak</title>
-    <desc lang="en">Livelihood and business show.</desc>
-  </programme>
-  <programme start="20261025080000 +0800" stop="20261025100000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Sunday Blockbusters</title>
-    <desc lang="en">Family weekend movie block.</desc>
-  </programme>
-  <programme start="20261025100000 +0800" stop="20261025120000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">ASAP Natin 'To Prep Show</title>
-    <desc lang="en">Pre-show coverage and countdowns.</desc>
-  </programme>
-  <programme start="20261025120000 +0800" stop="20261025141500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">ASAP Natin 'To</title>
-    <desc lang="en">Flagship Sunday musical variety show.</desc>
-  </programme>
-  <programme start="20261025141500 +0800" stop="20261025160000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Sunday Mega Movie</title>
-    <desc lang="en">Afternoon movie presentation.</desc>
-  </programme>
-  <programme start="20261025160000 +0800" stop="20261025170000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Rated Korina / KBYN</title>
-    <desc lang="en">Magazine and news feature show.</desc>
-  </programme>
-  <programme start="20261025170000 +0800" stop="20261025180000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">TV Patrol Weekend</title>
-    <desc lang="en">Sunday evening news broadcast.</desc>
-  </programme>
-  <programme start="20261025180000 +0800" stop="20261025193000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Goin' Bulilit / Weekend Special</title>
-    <desc lang="en">Family weekend comedy show.</desc>
-  </programme>
-  <programme start="20261025193000 +0800" stop="20261025210000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">The Voice / Weekend Prime</title>
-    <desc lang="en">Sunday primetime talent reality show.</desc>
-  </programme>
-  <programme start="20261025210000 +0800" stop="20261025223000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Kapamilya Sunday Cinema</title>
-    <desc lang="en">Late night Sunday blockbusters.</desc>
-  </programme>
-  <programme start="20261025223000 +0800" stop="20261025233000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Sunday's Best</title>
-    <desc lang="en">Documentaries and special events.</desc>
-  </programme>
   <programme start="20261026053000 +0800" stop="20261026060000 +0800" channel="KapamilyaChannel.ph">
     <title lang="en">Kapamilya Daily Mass</title>
     <desc lang="en">Daily morning mass celebration.</desc>
@@ -502,5 +454,53 @@
   <programme start="20261031214500 +0800" stop="20261031233000 +0800" channel="KapamilyaChannel.ph">
     <title lang="en">Kapamilya Action Movie</title>
     <desc lang="en">Late night Saturday action block.</desc>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">The Healing Eucharist</title>
+    <desc lang="en">Sunday Holy Mass.</desc>
+  </programme>
+  <programme start="20261101070000 +0800" stop="20261101080000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Kabuhayang Swak na Swak</title>
+    <desc lang="en">Livelihood and business show.</desc>
+  </programme>
+  <programme start="20261101080000 +0800" stop="20261101100000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Sunday Blockbusters</title>
+    <desc lang="en">Family weekend movie block.</desc>
+  </programme>
+  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">ASAP Natin 'To Prep Show</title>
+    <desc lang="en">Pre-show coverage and countdowns.</desc>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101141500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">ASAP Natin 'To</title>
+    <desc lang="en">Flagship Sunday musical variety show.</desc>
+  </programme>
+  <programme start="20261101141500 +0800" stop="20261101160000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Sunday Mega Movie</title>
+    <desc lang="en">Afternoon movie presentation.</desc>
+  </programme>
+  <programme start="20261101160000 +0800" stop="20261101170000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Rated Korina / KBYN</title>
+    <desc lang="en">Magazine and news feature show.</desc>
+  </programme>
+  <programme start="20261101170000 +0800" stop="20261101180000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">TV Patrol Weekend</title>
+    <desc lang="en">Sunday evening news broadcast.</desc>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101193000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Goin' Bulilit / Weekend Special</title>
+    <desc lang="en">Family weekend comedy show.</desc>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101210000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">The Voice / Weekend Prime</title>
+    <desc lang="en">Sunday primetime talent reality show.</desc>
+  </programme>
+  <programme start="20261101210000 +0800" stop="20261101223000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Kapamilya Sunday Cinema</title>
+    <desc lang="en">Late night Sunday blockbusters.</desc>
+  </programme>
+  <programme start="20261101223000 +0800" stop="20261101233000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Sunday's Best</title>
+    <desc lang="en">Documentaries and special events.</desc>
   </programme>
 </tv>
