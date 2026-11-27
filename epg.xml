@@ -3,86 +3,6 @@
   <channel id="KapamilyaChannel.ph">
     <display-name>Kapamilya Channel</display-name>
   </channel>
-  <programme start="20261126053000 +0800" stop="20261126060000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Kapamilya Daily Mass</title>
-    <desc lang="en">Daily morning mass celebration.</desc>
-  </programme>
-  <programme start="20261126060000 +0800" stop="20261126070000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">School Anywhere</title>
-    <desc lang="en">Educational program by Knowledge Channel.</desc>
-  </programme>
-  <programme start="20261126070000 +0800" stop="20261126073000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">The Flying House</title>
-    <desc lang="en">Animated Bible stories for kids.</desc>
-  </programme>
-  <programme start="20261126073000 +0800" stop="20261126080000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Superbook Reimagined</title>
-    <desc lang="en">3D animated Bible series.</desc>
-  </programme>
-  <programme start="20261126080000 +0800" stop="20261126100000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Blockbusters sa Umaga</title>
-    <desc lang="en">Morning movie block featuring hit films.</desc>
-  </programme>
-  <programme start="20261126100000 +0800" stop="20261126110000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Oh My Gan!</title>
-    <desc lang="en">Variety/Entertainment show.</desc>
-  </programme>
-  <programme start="20261126110000 +0800" stop="20261126120000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Face to Face with Ate Koring</title>
-    <desc lang="en">Public service talk show.</desc>
-  </programme>
-  <programme start="20261126120000 +0800" stop="20261126143000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">It's Showtime</title>
-    <desc lang="en">Noontime variety and talent show.</desc>
-  </programme>
-  <programme start="20261126143000 +0800" stop="20261126151500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">My Bespren Emman</title>
-    <desc lang="en">Afternoon drama series.</desc>
-  </programme>
-  <programme start="20261126151500 +0800" stop="20261126160000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Can't Buy Me Love</title>
-    <desc lang="en">Romantic drama series.</desc>
-  </programme>
-  <programme start="20261126160000 +0800" stop="20261126164500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">High Street</title>
-    <desc lang="en">Youth drama and thriller series.</desc>
-  </programme>
-  <programme start="20261126164500 +0800" stop="20261126173000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Happiness</title>
-    <desc lang="en">KDrama series dubbed in Tagalog.</desc>
-  </programme>
-  <programme start="20261126173000 +0800" stop="20261126174500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">TV Patrol Express</title>
-    <desc lang="en">Quick summary of top news stories.</desc>
-  </programme>
-  <programme start="20261126174500 +0800" stop="20261126183000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Minute to Win It</title>
-    <desc lang="en">Game show hosted by Luis Manzano.</desc>
-  </programme>
-  <programme start="20261126183000 +0800" stop="20261126200000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">TV Patrol</title>
-    <desc lang="en">Flagship news program of ABS-CBN.</desc>
-  </programme>
-  <programme start="20261126200000 +0800" stop="20261126204500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
-    <desc lang="en">Action drama starring Coco Martin.</desc>
-  </programme>
-  <programme start="20261126204500 +0800" stop="20261126213000 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Sigabo / Primetime Drama</title>
-    <desc lang="en">ABS-CBN Primetime Bida drama series.</desc>
-  </programme>
-  <programme start="20261126213000 +0800" stop="20261126221500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Someone, Someday</title>
-    <desc lang="en">Kapamilya romance-drama series.</desc>
-  </programme>
-  <programme start="20261126221500 +0800" stop="20261126224500 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">The World Tonight</title>
-    <desc lang="en">Late-night news broadcast.</desc>
-  </programme>
-  <programme start="20261126224500 +0800" stop="20261126235900 +0800" channel="KapamilyaChannel.ph">
-    <title lang="en">Movie Central Presents</title>
-    <desc lang="en">Late night movie feature.</desc>
-  </programme>
   <programme start="20261127053000 +0800" stop="20261127060000 +0800" channel="KapamilyaChannel.ph">
     <title lang="en">Kapamilya Daily Mass</title>
     <desc lang="en">Daily morning mass celebration.</desc>
@@ -500,6 +420,86 @@
     <desc lang="en">Late-night news broadcast.</desc>
   </programme>
   <programme start="20261202224500 +0800" stop="20261202235900 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Late night movie feature.</desc>
+  </programme>
+  <programme start="20261203053000 +0800" stop="20261203060000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Daily morning mass celebration.</desc>
+  </programme>
+  <programme start="20261203060000 +0800" stop="20261203070000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">School Anywhere</title>
+    <desc lang="en">Educational program by Knowledge Channel.</desc>
+  </programme>
+  <programme start="20261203070000 +0800" stop="20261203073000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">The Flying House</title>
+    <desc lang="en">Animated Bible stories for kids.</desc>
+  </programme>
+  <programme start="20261203073000 +0800" stop="20261203080000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Superbook Reimagined</title>
+    <desc lang="en">3D animated Bible series.</desc>
+  </programme>
+  <programme start="20261203080000 +0800" stop="20261203100000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+    <desc lang="en">Morning movie block featuring hit films.</desc>
+  </programme>
+  <programme start="20261203100000 +0800" stop="20261203110000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Oh My Gan!</title>
+    <desc lang="en">Variety/Entertainment show.</desc>
+  </programme>
+  <programme start="20261203110000 +0800" stop="20261203120000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Face to Face with Ate Koring</title>
+    <desc lang="en">Public service talk show.</desc>
+  </programme>
+  <programme start="20261203120000 +0800" stop="20261203143000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">Noontime variety and talent show.</desc>
+  </programme>
+  <programme start="20261203143000 +0800" stop="20261203151500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">My Bespren Emman</title>
+    <desc lang="en">Afternoon drama series.</desc>
+  </programme>
+  <programme start="20261203151500 +0800" stop="20261203160000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Can't Buy Me Love</title>
+    <desc lang="en">Romantic drama series.</desc>
+  </programme>
+  <programme start="20261203160000 +0800" stop="20261203164500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">High Street</title>
+    <desc lang="en">Youth drama and thriller series.</desc>
+  </programme>
+  <programme start="20261203164500 +0800" stop="20261203173000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Happiness</title>
+    <desc lang="en">KDrama series dubbed in Tagalog.</desc>
+  </programme>
+  <programme start="20261203173000 +0800" stop="20261203174500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">TV Patrol Express</title>
+    <desc lang="en">Quick summary of top news stories.</desc>
+  </programme>
+  <programme start="20261203174500 +0800" stop="20261203183000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Minute to Win It</title>
+    <desc lang="en">Game show hosted by Luis Manzano.</desc>
+  </programme>
+  <programme start="20261203183000 +0800" stop="20261203200000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">TV Patrol</title>
+    <desc lang="en">Flagship news program of ABS-CBN.</desc>
+  </programme>
+  <programme start="20261203200000 +0800" stop="20261203204500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+    <desc lang="en">Action drama starring Coco Martin.</desc>
+  </programme>
+  <programme start="20261203204500 +0800" stop="20261203213000 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Sigabo / Primetime Drama</title>
+    <desc lang="en">ABS-CBN Primetime Bida drama series.</desc>
+  </programme>
+  <programme start="20261203213000 +0800" stop="20261203221500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">Someone, Someday</title>
+    <desc lang="en">Kapamilya romance-drama series.</desc>
+  </programme>
+  <programme start="20261203221500 +0800" stop="20261203224500 +0800" channel="KapamilyaChannel.ph">
+    <title lang="en">The World Tonight</title>
+    <desc lang="en">Late-night news broadcast.</desc>
+  </programme>
+  <programme start="20261203224500 +0800" stop="20261203235900 +0800" channel="KapamilyaChannel.ph">
     <title lang="en">Movie Central Presents</title>
     <desc lang="en">Late night movie feature.</desc>
   </programme>
